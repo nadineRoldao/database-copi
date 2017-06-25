@@ -1,0 +1,34 @@
+﻿identificando as tabelas:
+
+- Cliente
+- Nota Fiscal
+- Produto
+- Item Nota Fiscal (tabela associativa do relacionamento produto-NF):
+
+att Cliente:
+- id cli
+- nome
+- tel
+- email
+- cpf
+- cep
+
+att Nota Fiscal:
+- id nota
+- id cli
+- preço total
+- data de emissão
+- descontos
+
+att Produto:
+- id produtos
+- descrição 
+- código de barra
+- categoria 
+- preço
+
+att Item Nota Fiscal:
+- id item
+- id produto
+- id nota
+- quantidade

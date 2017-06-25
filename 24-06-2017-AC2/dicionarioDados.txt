@@ -1,0 +1,5 @@
+dicionario de dados:
+
+criar uma tabela para cada entidade com as seguintes informações:
+
+nome att, tipo de dado att, descrição do campo, observações

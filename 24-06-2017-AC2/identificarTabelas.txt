@@ -1,0 +1,5 @@
+identificar as tabelas;
+
+identificar os atributos;
+
+identificar as entidades fortes e fracas (quem recebe a chave de quem).

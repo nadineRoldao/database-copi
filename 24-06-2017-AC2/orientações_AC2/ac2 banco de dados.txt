@@ -1,0 +1,19 @@
+AC - Banco de Dados I (individual ou dupla)
+
+Desenvolver um projeto de banco de dados de um sistema
+para administrar uma loja/mercado (venda de produtos).
+*** qualquer produto (frutas, roupas, celulares, games, etc)
+*** quanto mais próximo da realidade maior a nota
+
+- Desenhar o diagrama(word, paint, etc)
+- Criar o banco de dados e as tabelas no Xampp/Workbench
+- Gerar o modelo entidade relacionamento
+- Gerar o dicionário de dados (excel)
+- Inserir 5 clientes
+- Cadastrar 5 produtos
+Fazer 2 vendas
+- 1a venda - um único produto na nota fiscal
+- 2a venda - vários produtos na mesma nota fiscal
+
+4 arquivos da AC (diagrama, script, dicionário e modelo)
+- Entrega na próxima 2a (26/6)
